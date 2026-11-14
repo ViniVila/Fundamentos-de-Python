@@ -11,4 +11,4 @@ altura = float (input("digite sua altura"))
 IMC = peso / (altura*altura)
 
 #saida
-print(f"o é {nome}, seu IMC é: {IMC .2f}")
+print(f"o é {nome}, seu IMC é: {IMC: .2f}")
